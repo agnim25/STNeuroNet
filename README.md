@@ -73,6 +73,3 @@ DOI: [10.1007/978-3-319-59050-9_28][ipmi2017]
 
 STNeuroNet is released under [the GNU License, Version 2.0](https://github.com/soltanianzadeh/STNeuroNet/LICENSE).
 
-### Acknowledgements
-We thank David Feng and Jerome Lecoq from the Allen Institute for providing the ABO data, Saskia de Vries and David Feng from the Allen Institute for useful discussions, Hao Zhao for the initial implementation of the GUI, and Leon Kwark for the manual marking of the data. 
-
